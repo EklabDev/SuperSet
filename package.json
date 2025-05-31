@@ -1,6 +1,6 @@
 {
   "name": "@eklabdev/superset",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Enhanced Set and Map implementations with additional utility methods",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
