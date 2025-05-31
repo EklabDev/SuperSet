@@ -1,5 +1,5 @@
 import { SuperSet } from './SuperSet';
-import { MapLike, MapPredicate, MapMapper, MapReducer } from './types';
+import { MapLike, MapPredicate, MapReducer } from './types';
 
 /**
  * Enhanced Map implementation with additional utility methods
